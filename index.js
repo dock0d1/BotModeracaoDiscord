@@ -1,6 +1,6 @@
 // PACOTES NECESSÁRIOS PARA RODAR O BOT
-const Discord = require('discord.js');
-const colors = require('colors');
+const Discord = require('discord.js');//discord.js é um módulo Node.js poderoso que permite que você interaja facilmente com a API Discord.
+const colors = require('colors');//Biblioteca JavaScript para conversão e manipulação de cores imutáveis com suporte para strings de cores CSS.
 
 // DEFINIÇÃO DO CLIENT ONDE USAREMOS PARA RODAR O BOT
 const client = new Discord.Client();
