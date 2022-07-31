@@ -30,7 +30,7 @@ client.on('message', message => {
 
 // AQUI MOSTRARÁ QUANDO O BOT FICAR ATIVO
 client.on("ready", () => {
-    console.log('Bot consultor feito por: '.green + "dock0d1'#0001".red);
+    console.log('Bot consultor feito por: '.green + "prok3z'#0001".red);
     console.log('Logado no bot: '.green + `${app.user.tag}`.red);
 });
 
